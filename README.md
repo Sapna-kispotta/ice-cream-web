@@ -43,8 +43,7 @@ Upon opening the index.html file, you'll be greeted with the main page of the Ic
 - *HTML5*: Provides the structure for the website.
 - *CSS3*: Used for styling and layout.
 - *JavaScript*: Adds interactivity and dynamic content.
-- *Bootstrap*: (Optional) For responsive design (if included in the project).
-
+- 
 ## Contributing
 
 We welcome contributions from the community! To contribute:
@@ -71,11 +70,6 @@ Here are some planned features and improvements for future updates:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- *Design Inspiration*: Thanks to [Name or Website] for design inspiration.
-- *Libraries and Tools*: Special thanks to [Library/Tool Name] for their contributions to the development process.
 
 ## Contact
 
