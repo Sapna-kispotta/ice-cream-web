@@ -10,14 +10,6 @@ Welcome to the Ice Cream Web project! This repository features a beautifully des
 - *Search Functionality*: Quickly find specific flavors with our built-in search feature.
 - *Filter Options*: Refine your search by flavor type, ingredients, or dietary preferences.
 
-## Screenshots
-
-![Homepage Screenshot](docs/screenshot-homepage.png)
-Homepage of the Ice Cream Web
-
-![Flavor Detail Screenshot](docs/screenshot-flavor-detail.png)
-Flavor detail page
-
 ## Installation
 
 To set up this project locally, follow these steps:
@@ -89,5 +81,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions, suggestions, or issues, please contact:
 
-- *Email*: example@example.com
+- *Email*: sapnakispotta25@gmail.com
 - *GitHub Issues*: [Ice Cream Web Issues](https://github.com/Sapna-kispotta/ice-cream-web/issues)
